@@ -1,0 +1,26 @@
+text,intent
+how are you?,greeting
+hello,greeting
+see you later,leaving
+talk to you later,leaving
+hows the weather,weather
+whats the temperature,weather
+open,open_application
+open application,open_application
+bye,leaving
+start application,open_application
+go to application,open_application
+next song,media_next
+previous song,media_prev
+pause song,media_play_pause
+play song,media_play_pause
+stop song,media_stop
+volume up,volume_up
+increase volume ,volume_up
+volume down,volume_down
+decrease volume,volume_down
+mute please,mute
+mute,mute
+silence please,mute
+please type as i say,type_words
+search,search
